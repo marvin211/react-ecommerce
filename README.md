@@ -30,7 +30,10 @@ npm run dev
 4. Puedes realizar pruebas de compra utilizando datos de prueba proporcionados en la aplicación.
 
 ## Tecnologías utilizadas
-React: Biblioteca de JavaScript para construir interfaces de usuario interactivas.
-Vite: Herramienta de compilación rápida y liviana para proyectos de React.
-React Router: Biblioteca de enrutamiento para manejar la navegación dentro de la aplicación.
-Tailwind CSS: Framework de diseño utilitario para estilizar los componentes de la aplicación.
+- React: Biblioteca de JavaScript para construir interfaces de usuario interactivas.
+
+- Vite: Herramienta de compilación rápida y liviana para proyectos de React.
+
+- React Router: Biblioteca de enrutamiento para manejar la navegación dentro de la aplicación.
+
+- Tailwind CSS: Framework de diseño utilitario para estilizar los componentes de la aplicación.
